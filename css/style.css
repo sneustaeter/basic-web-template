@@ -1,14 +1,36 @@
 body {
-  background-color: black;
-  color: white;
-  font-family: verdana;
+	background-color: black;
+	color: white;
+	font-family: verdana;
 }
 
 h1 {
-  text-align: center;
-  font-size: 64px;
+	text-align: center;
+	font-size: 64px;
 }
 
 p {
-  font-size: 20px;
+	font-size: 20px;
 }
+
+footer {
+	text-align: center;
+	padding: 3px;
+	background-color: rgb(51, 51, 51);
+	border-style: solid;
+	border-color: rgb(137, 0, 255);
+}
+
+.title-div {
+	padding-bottom: 10px;
+	text-align: center;
+}
+
+.page-content {
+	border-style: solid;
+	border-color: rgb(137, 0, 255);
+	padding-left: 15px;
+	min-height: 1000px;
+	padding-bottom: 5px;
+}
+
